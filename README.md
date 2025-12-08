@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat&logo=discord)](https://discord.com/users/roberttvu)
 
 
-- :star: I’m currently learning basic for Networking/Security
+- :star: I’m currently learning for scripting
 - :star: Focus on blue Team and current setting up an Home-Lab with SoS
 - :seedling:  Join with me in THM
 <img src="https://tryhackme-badges.s3.amazonaws.com/R.VU.png" alt="Your Image Badge" />
