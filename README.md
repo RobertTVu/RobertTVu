@@ -8,8 +8,7 @@
 - :star: I’m currently learning for scripting
 - :star: Focus on blue Team and current setting up an Home-Lab with SO
 - :seedling:  Join with me in THM
-  
-<img src="https://tryhackme-badges.s3.amazonaws.com/R.VU.png" alt="Your Image Badge" />
+
 
   
 ## 
