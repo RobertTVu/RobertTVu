@@ -10,16 +10,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 🎓 **IT & Cybersecurity Student** at Frans Schartau Institute, Stockholm  
 🛡️ **Specializing in:** SOC Analys, TD & IR  
 🔬 **Current Focus:** Building homelab infrastructure and practicing CTF challenges  
 📅 **Internships:** August-October 2026 & February-May 2027  
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/R.VU.png" alt="TryHackMe Badge" />
+
 ---
 
-## 🎯 What I'm Working On
+##  What I'm Working On
 
 ⭐ **Scripting & Automation** - Developing Python scripts for log analysis and security automation  
 🔵 **Blue Team Skills** - Setting up enterprise-level homelab with Active Directory, SIEM, and monitoring tools  
@@ -32,9 +34,9 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
-### 🟢 Basic / Learning
+### 🟢  Learning / Basic / Familiar 
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat&logo=nmap&logoColor=white)
@@ -66,12 +68,6 @@
 ![Snort](https://img.shields.io/badge/-Snort-FF0000?style=flat&logoColor=white)
 ![Suricata](https://img.shields.io/badge/-Suricata-FF6600?style=flat&logoColor=white)
 ![IDS/IPS](https://img.shields.io/badge/-IDS%2FIPS-DC143C?style=flat&logoColor=white)
-
----
-
-- 🎯 **TryHackMe:** Level [0xB][MASTER]
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/R.VU.png" alt="TryHackMe Badge" />
 
 ---
 
