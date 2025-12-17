@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/roberttamvu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://discord.com/users/roberttvu"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/R.VU"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white"/></a>
+  <span style="margin-left: 30px; font-size: 19px; font-weight: 500;"> << Let's Connect</span>
 </p>
 
 ---
@@ -24,17 +25,15 @@
 ##  What I'm Working On
 
 ⭐ **Scripting & Automation** - Developing Python scripts for log analysis and security automation  
-🔵 **Blue Team Skills** - Setting up enterprise-level homelab with Active Directory, SIEM, and monitoring tools  
+🔵 **Blue Team Skills** - Setting up homelab with Active Directory, SIEM, and monitoring tools  
 🌱 **TryHackMe Journey** - Progressing through SOC Analyst learning path  
 🏠 **Homelab Projects:**
 - Pi-hole DNS filtering on Raspberry Pi
 - Tailscale VPN for secure remote access
-- Mini Dell - server with virtualization environment
+- Mini Dell acting as server with virtualization environment
 - Network security testing lab
 
 ---
-
-## Technologies & Tools
 
 ### 🟢  Learning / Basic / Familiar 
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
@@ -70,10 +69,6 @@
 ![IDS/IPS](https://img.shields.io/badge/-IDS%2FIPS-DC143C?style=flat&logoColor=white)
 
 ---
-
-## 📫 Let's Connect!
-
-I'm always interested in connecting with fellow security enthusiasts, discussing homelab setups, or collaborating on cybersecurity projects!
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/roberttvu" target="_blank">
