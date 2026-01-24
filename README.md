@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/roberttamvu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://discord.com/users/roberttvu"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/R.VU"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white"/></a>
-  <span style="margin-left: 30px; font-size: 19px; font-weight: 500;"> << Let's Connect</span>
+  <span style="margin-left: 30px; font-size: 19px; font-weight: 500;"> </span>
 </p>
 
 ---
