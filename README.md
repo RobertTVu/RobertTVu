@@ -1,5 +1,5 @@
-# Hi there, I'm Robert 👋
-### Security Student | SOC Analyst in Training | Homelab Enthusiast
+# Hello there Cowboy Coding🤠
+### Cybersecurity Student | SOC Focus | Homelab Enthusiast
 
 <p align="left">
   <a href="mailto:vurobert.rv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -24,10 +24,14 @@
 
 ##  What I'm Working On
 
-⭐ **Scripting & Automation** - Developing Python scripts for log analysis and security automation  
-🔵 **Blue Team Skills** - Setting up homelab with Active Directory, SIEM, and monitoring tools  
-🌱 **TryHackMe Journey** - Progressing through SOC Analyst learning path  
-🏠 **Homelab Projects:**
+🛡️**ApplicationSecurity** - Using Burpsuie for Portswigger labs
+
+🛡️**Blue Team Skills** - Setting up homelab with Active Directory, SIEM, and monitoring tools  
+
+🛡️**TryHackMe Journey** - Progressing through SOC Analyst learning path  
+
+🛡️**Homelab Projects:**
+
 - Pi-hole DNS filtering on Raspberry Pi
 - Tailscale VPN for secure remote access
 - Mini Dell acting as server with virtualization environment
