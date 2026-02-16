@@ -1,4 +1,4 @@
-# Hello there Cowboy Coding🤠
+# Hey 
 ### Cybersecurity Student | SOC Focus | Homelab Enthusiast
 
 <p align="left">
@@ -22,11 +22,11 @@
 
 ---
 
-##  What I'm Working On
+##  Right Now:
 
-🛡️**ApplicationSecurity** - Using Burpsuie for Portswigger labs
+🛡️**ApplicationSecurity** - Using Burpsuie for Portswigger labs/OWASP Juice Shop
 
-🛡️**Blue Team Skills** - Setting up homelab with Active Directory, SIEM, and monitoring tools  
+🛡️**Blue Team Skills** - Splunk
 
 🛡️**TryHackMe Journey** - Progressing through SOC Analyst learning path  
 
