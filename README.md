@@ -13,29 +13,25 @@
 
 ## About Me
 
-🎓 **IT & Cybersecurity Student** at Frans Schartau Institute, Stockholm  
+🎓 **IT & Cybersecurity Student** At Frans Schartau Institute, Stockholm  
 🛡️ **Specializing in:** SOC Analys, TD & IR  
-🔬 **Current Focus:** Building homelab infrastructure and practicing CTF challenges  
 📅 **Internships:** August-October 2026 & February-May 2027  
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/R.VU.png" alt="TryHackMe Badge" />
 
 ---
 
-##  Right Now:
+##  Current On:
 
-🛡️**ApplicationSecurity** - Using Burpsuie for Portswigger labs/OWASP Juice Shop
+**Blue Team Skills:**  Splunk
 
-🛡️**Blue Team Skills** - Splunk
+**TryHackMe Journey:**  Progressing through SOC Analyst learning path  
 
-🛡️**TryHackMe Journey** - Progressing through SOC Analyst learning path  
 
-🛡️**Homelab Projects:**
-
-- Pi-hole DNS filtering on Raspberry Pi
+**Homelab Projects:**
+- Pi-hole DNS filtering
 - Tailscale VPN for secure remote access
 - Mini Dell acting as server with virtualization environment
-- Network security testing lab
 
 ---
 
