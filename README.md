@@ -17,7 +17,6 @@
 🛡️ **Specializing in:** SOC Analys, TD & IR  
 📅 **Internships:** August-October 2026 & February-May 2027  
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/R.VU.png" alt="TryHackMe Badge" />
 
 ---
 
