@@ -24,15 +24,12 @@
 
 ##  Current On:
 
-**Blue Team Skills:**  Splunk
-
-**TryHackMe Journey:**  Progressing through SOC Analyst learning path  
-
+**Blue Team Skills:**  Splunk > Setting up Active Directory and playing around
 
 **Homelab Projects:**
 - Pi-hole DNS filtering
 - Tailscale VPN for secure remote access
-- Mini Dell acting as server with virtualization environment
+- Mini Dell with splunk and acting as server with VM environment
 
 ---
 
