@@ -23,9 +23,9 @@
 
 ##  Current On:
  
-**Attack → Detect → Harden → Repeat**
-
 Running [GOAD-mini](https://github.com/Orange-Cyberdefense/GOAD) (Game of Active Directory) as a home lab to practice the full defensive cycle:
+
+**Attack → Detect → Harden → Repeat**
 
 1. **Pentest** - Find vulnerabilities and execute attacks against AD
 2. **Detect** - Capture and parse logs in Splunk to identify the attack
