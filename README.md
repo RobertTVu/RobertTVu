@@ -23,8 +23,8 @@
 ---
 
 ##  Current On:
-
-**Blue Team Skills:**  Splunk > Setting up Active Directory and playing around
+ 
+**Testing around:**  Pentest > Active Directory > Capture with splunk > Hardning >> Retry the attack
 
 **Homelab Projects:**
 - Pi-hole DNS filtering
