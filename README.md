@@ -14,7 +14,7 @@
 ## About Me
 
 🎓 **IT & Cybersecurity Student** At Frans Schartau Institute, Stockholm  
-🛡️ **Specializing in:** SOC Analys, TD & IR  
+🛡️ **Focus in:** SOC Analys
 📅 **Internships:** August-October 2026 & February-May 2027  
 
 
@@ -24,7 +24,14 @@
 
 ##  Current On:
  
-**Testing around:**  Pentest > Active Directory > Capture with splunk > Hardning >> Retry the attack
+**Attack → Detect → Harden → Repeat**
+
+Running [GOAD-mini](https://github.com/Orange-Cyberdefense/GOAD) (Game of Active Directory) as a home lab to practice the full defensive cycle:
+
+1. **Pentest** - Find vulnerabilities and execute attacks against AD
+2. **Detect** - Capture and parse logs in Splunk to identify the attack
+3. **Harden** - Apply fixes and tighten configurations
+4. **Retest** - Run the same attack again to verify the hardening worked
 
 **Homelab Projects:**
 - Pi-hole DNS filtering
