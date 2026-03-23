@@ -1,4 +1,3 @@
-# Hey 
 ### Cybersecurity Student | SOC Focus | Homelab Enthusiast
 
 <p align="left">
