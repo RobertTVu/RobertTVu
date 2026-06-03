@@ -13,7 +13,6 @@
 ## About Me
 
 🎓 **IT & Cybersecurity Student** At Frans Schartau Institute, Stockholm  
-🛡️ **Focus in:** SOC Analys
 📅 **Internships:** August-October 2026 & February-May 2027  
 
 
