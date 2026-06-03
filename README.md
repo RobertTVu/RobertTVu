@@ -11,30 +11,25 @@
 ---
 
 ## About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-roberttvu.github.io-FF6B1A?style=flat-square&logo=githubpages&logoColor=white)](https://roberttvu.github.io/)
 
 🎓 **IT & Cybersecurity Student** At Frans Schartau Institute, Stockholm  
 📅 **Internships:** August-October 2026 & February-May 2027  
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/R.VU.png" alt="Your Image Badge" />
-
 ---
 
-##  Current On:
- 
-Running [GOAD-mini](https://github.com/Orange-Cyberdefense/GOAD) (Game of Active Directory) as a home lab to practice the full defensive cycle:
+## Current On:
 
-**Attack → Detect → Harden → Repeat**
+Exploring **AI, automation & ML** in a security context - applying them to ELT, tooling workflow and Power Bi.
 
-1. **Pentest** - Find vulnerabilities and execute attacks against AD
-2. **Detect** - Capture and parse logs in Splunk to identify the attack
-3. **Harden** - Apply fixes and tighten configurations
-4. **Retest** - Run the same attack again to verify the hardening worked
+**More coming soon.**
 
 ---
 
 ### 🟢  Learning / Basic / Familiar 
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
