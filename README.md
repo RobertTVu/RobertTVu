@@ -31,11 +31,6 @@ Running [GOAD-mini](https://github.com/Orange-Cyberdefense/GOAD) (Game of Active
 3. **Harden** - Apply fixes and tighten configurations
 4. **Retest** - Run the same attack again to verify the hardening worked
 
-**Homelab Projects:**
-- Pi-hole DNS filtering
-- Tailscale VPN for secure remote access
-- Mini Dell with splunk and acting as server with VM environment
-
 ---
 
 ### 🟢  Learning / Basic / Familiar 
