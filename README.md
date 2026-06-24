@@ -27,7 +27,7 @@ Exploring **AI, automation & ML** in a security context - applying them to ELT, 
 
 ---
 
-### 🟢  Learning / Basic / Familiar 
+### 🟢  Learning / Basic  
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
