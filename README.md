@@ -14,16 +14,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-roberttvu.github.io-FF6B1A?style=flat-square&logo=githubpages&logoColor=white)](https://roberttvu.github.io/)
 
 🎓 **IT & Cybersecurity Student** At Frans Schartau Institute, Stockholm  
-📅 **Internships:** August-October 2026 & February-May 2027  
+📅 **Internships:** Available for February-May 2027  
 
-
----
-
-## Current On:
-
-Exploring **AI, automation & ML** in a security context - applying them to ELT, tooling workflow and Power Bi.
-
-**More coming soon.**
 
 ---
 
