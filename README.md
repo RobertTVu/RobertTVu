@@ -13,8 +13,8 @@
 ## About Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-roberttvu.github.io-FF6B1A?style=flat-square&logo=githubpages&logoColor=white)](https://roberttvu.github.io/)
 
-🎓 **IT & Cybersecurity Student** At Frans Schartau Institute, Stockholm  
-📅 **Internships:** Available for February-May 2027  
+**IT & Cybersecurity Student** At Frans Schartau Institute, Stockholm  
+**Internships:** Available for February-May 2027  
 
 
 ---
